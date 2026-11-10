@@ -9,7 +9,7 @@ Alongside my personal repository, this page also hosts development for **Nool Va
 
 ## 👨‍💻 Currently in Development
 *   **KollyClash:** An interactive Kollywood Game Show built on Streamer.bot with Gemini AI backing, designed to drive live chat engagement.
-*   **Modern YT-DLP GUI:** A sleek, user-friendly graphical interface for downloading media via YT-DLP.
+*   **Cuttle:** A sleek, user-friendly graphical interface for downloading media via YT-DLP.
 *   **Padazh:** A fork of the app [Lune](https://github.com/MrDemonc/Lune). Wider Hi-Fi support and "Kannu", A Spotify Canvas feature for local files.
 
 ## 🎮 Catch Me Live
