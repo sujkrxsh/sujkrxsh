@@ -8,7 +8,7 @@ Whether I'm building native Android applications, scripting custom integrations 
 Alongside my personal repository, this page also hosts development for **Nool Valai**—my commercial and open-source software initiative focused on publishing modern utility and productivity applications.
 
 ## 👨‍💻 Currently in Development
-*   **KollyClash:** An interactive Kollywood Game Show built on Streamer.bot with Gemini AI backing, designed to drive live chat engagement.
+*   **KollyClash:** An interactive Kollywood Game Show built on Streamer.bot, designed to drive live chat engagement.
 *   **Cuttle:** A sleek, user-friendly graphical interface for downloading media via YT-DLP.
 *   **Padazh:** A fork of the app [Lune](https://github.com/MrDemonc/Lune). Wider Hi-Fi support and "Kannu", A Spotify Canvas feature for local files.
 
