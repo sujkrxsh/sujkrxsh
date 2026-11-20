@@ -11,6 +11,7 @@ Alongside my personal repository, this page also hosts development for **Nool Va
 *   **KollyClash:** An interactive Kollywood Game Show built on Streamer.bot, designed to drive live chat engagement.
 *   **Cuttle:** A sleek, user-friendly graphical interface for downloading media via YT-DLP.
 *   **Padazh:** A fork of the app [Lune](https://github.com/MrDemonc/Lune). Wider Hi-Fi support and "Kannu", A Spotify Canvas feature for local files.
+*   **WatchOS Faces:** A collection of watch faces built for WatchOS based around personal preference and third-party inspirations.
 
 ## 🎮 Catch Me Live
 When I'm not pushing code, I'm usually streaming gaming and reaction content. You can find my live broadcasts and videos on Twitch and YouTube under **sujkrxsh**.
